@@ -1,4 +1,5 @@
-== 2012 Presidential Election Data
+2012 Presidential Election Data
+=============
 
 This repository contains official county-/town-level results for the 2012 general presidential election.
 

@@ -257,12 +257,12 @@ Kosciusko,Romney,22558
 Kosciusko,Goode,3
 Kosciusko,Knill,0
 Kosciusko,Durham,0
-La Porte,Obama,24107
-La Porte,Johnson,944
-La Porte,Romney,18615
-La Porte,Goode,5
-La Porte,Knill,0
-La Porte,Durham,0
+LaPorte,Obama,24107
+LaPorte,Johnson,944
+LaPorte,Romney,18615
+LaPorte,Goode,5
+LaPorte,Knill,0
+LaPorte,Durham,0
 LaGrange,Obama,2898
 LaGrange,Johnson,187
 LaGrange,Romney,6231
@@ -809,12 +809,12 @@ Kosciusko,Blair,0
 Kosciusko,Chehade,0
 Kosciusko,Duncan,0
 Kosciusko,Hoefling,1
-La Porte,Lopez,0
-La Porte,Stein,10
-La Porte,Blair,0
-La Porte,Chehade,0
-La Porte,Duncan,0
-La Porte,Hoefling,0
+LaPorte,Lopez,0
+LaPorte,Stein,10
+LaPorte,Blair,0
+LaPorte,Chehade,0
+LaPorte,Duncan,0
+LaPorte,Hoefling,0
 LaGrange,Lopez,0
 LaGrange,Stein,0
 LaGrange,Blair,0
@@ -1361,12 +1361,12 @@ Kosciusko,Reed,3
 Kosciusko,Simoneux,0
 Kosciusko,Terry,0
 Kosciusko,Dummett,0
-La Porte,Jones,0
-La Porte,Keyton,0
-La Porte,Reed,0
-La Porte,Simoneux,0
-La Porte,Terry,0
-La Porte,Dummett,0
+LaPorte,Jones,0
+LaPorte,Keyton,0
+LaPorte,Reed,0
+LaPorte,Simoneux,0
+LaPorte,Terry,0
+LaPorte,Dummett,0
 LaGrange,Jones,0
 LaGrange,Keyton,0
 LaGrange,Reed,0
@@ -1698,7 +1698,7 @@ Jennings,Alexander,0
 Johnson,Alexander,0
 Knox,Alexander,0
 Kosciusko,Alexander,0
-La Porte,Alexander,0
+LaPorte,Alexander,0
 LaGrange,Alexander,0
 Lake,Alexander,0
 Lawrence,Alexander,0

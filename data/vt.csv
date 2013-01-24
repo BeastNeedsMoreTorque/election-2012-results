@@ -1,85 +1,85 @@
 county,candidate,votes
-Addison County,Anderson,78
-Addison County,Johnson,222
-Addison County,Lindsay,38
-Addison County,Obama,12257
-Addison County,Romney,5203
-Addison County,write-in,112
-Bennington County,Anderson,64
-Bennington County,Johnson,203
-Bennington County,Lindsay,41
-Bennington County,Obama,11514
-Bennington County,Romney,5687
-Bennington County,write-in,84
-Caledonia County,Anderson,61
-Caledonia County,Johnson,168
-Caledonia County,Lindsay,36
-Caledonia County,Obama,8192
-Caledonia County,Romney,5088
-Caledonia County,write-in,116
-Chittenden County,Anderson,263
-Chittenden County,Johnson,926
-Chittenden County,Lindsay,163
-Chittenden County,Obama,53626
-Chittenden County,Romney,21571
-Chittenden County,write-in,531
-Essex County,Anderson,15
-Essex County,Johnson,38
-Essex County,Lindsay,8
-Essex County,Obama,1539
-Essex County,Romney,1164
-Essex County,write-in,34
-Franklin County,Anderson,71
-Franklin County,Johnson,196
-Franklin County,Lindsay,26
-Franklin County,Obama,12057
-Franklin County,Romney,7405
-Franklin County,write-in,133
-Grand Isle County,Anderson,18
-Grand Isle County,Johnson,37
-Grand Isle County,Lindsay,7
-Grand Isle County,Obama,2531
-Grand Isle County,Romney,1471
-Grand Isle County,write-in,11
-Lamoille County,Anderson,35
-Lamoille County,Johnson,140
-Lamoille County,Lindsay,26
-Lamoille County,Obama,8371
-Lamoille County,Romney,3342
-Lamoille County,write-in,74
-Orange County,Anderson,67
-Orange County,Johnson,194
-Orange County,Lindsay,40
-Orange County,Obama,9076
-Orange County,Romney,4588
-Orange County,write-in,88
-Orleans County,Anderson,42
-Orleans County,Johnson,130
-Orleans County,Lindsay,37
-Orleans County,Obama,7117
-Orleans County,Romney,4306
-Orleans County,write-in,60
-Rutland County,Anderson,115
-Rutland County,Johnson,308
-Rutland County,Lindsay,60
-Rutland County,Obama,17088
-Rutland County,Romney,10835
-Rutland County,write-in,203
-Washington County,Anderson,141
-Washington County,Johnson,387
-Washington County,Lindsay,80
-Washington County,Obama,20351
-Washington County,Romney,8093
-Washington County,write-in,255
-Windham County,Anderson,78
-Windham County,Johnson,221
-Windham County,Lindsay,82
-Windham County,Obama,16026
-Windham County,Romney,5347
-Windham County,write-in,183
-Windsor County,Anderson,80
-Windsor County,Johnson,317
-Windsor County,Lindsay,51
-Windsor County,Obama,19494
-Windsor County,Romney,8598
-Windsor County,write-in,159
+Addison,Anderson,78
+Addison,Johnson,222
+Addison,Lindsay,38
+Addison,Obama,12257
+Addison,Romney,5203
+Addison,write-in,112
+Bennington,Anderson,64
+Bennington,Johnson,203
+Bennington,Lindsay,41
+Bennington,Obama,11514
+Bennington,Romney,5687
+Bennington,write-in,84
+Caledonia,Anderson,61
+Caledonia,Johnson,168
+Caledonia,Lindsay,36
+Caledonia,Obama,8192
+Caledonia,Romney,5088
+Caledonia,write-in,116
+Chittenden,Anderson,263
+Chittenden,Johnson,926
+Chittenden,Lindsay,163
+Chittenden,Obama,53626
+Chittenden,Romney,21571
+Chittenden,write-in,531
+Essex,Anderson,15
+Essex,Johnson,38
+Essex,Lindsay,8
+Essex,Obama,1539
+Essex,Romney,1164
+Essex,write-in,34
+Franklin,Anderson,71
+Franklin,Johnson,196
+Franklin,Lindsay,26
+Franklin,Obama,12057
+Franklin,Romney,7405
+Franklin,write-in,133
+Grand Isle,Anderson,18
+Grand Isle,Johnson,37
+Grand Isle,Lindsay,7
+Grand Isle,Obama,2531
+Grand Isle,Romney,1471
+Grand Isle,write-in,11
+Lamoille,Anderson,35
+Lamoille,Johnson,140
+Lamoille,Lindsay,26
+Lamoille,Obama,8371
+Lamoille,Romney,3342
+Lamoille,write-in,74
+Orange,Anderson,67
+Orange,Johnson,194
+Orange,Lindsay,40
+Orange,Obama,9076
+Orange,Romney,4588
+Orange,write-in,88
+Orleans,Anderson,42
+Orleans,Johnson,130
+Orleans,Lindsay,37
+Orleans,Obama,7117
+Orleans,Romney,4306
+Orleans,write-in,60
+Rutland,Anderson,115
+Rutland,Johnson,308
+Rutland,Lindsay,60
+Rutland,Obama,17088
+Rutland,Romney,10835
+Rutland,write-in,203
+Washington,Anderson,141
+Washington,Johnson,387
+Washington,Lindsay,80
+Washington,Obama,20351
+Washington,Romney,8093
+Washington,write-in,255
+Windham,Anderson,78
+Windham,Johnson,221
+Windham,Lindsay,82
+Windham,Obama,16026
+Windham,Romney,5347
+Windham,write-in,183
+Windsor,Anderson,80
+Windsor,Johnson,317
+Windsor,Lindsay,51
+Windsor,Obama,19494
+Windsor,Romney,8598
+Windsor,write-in,159

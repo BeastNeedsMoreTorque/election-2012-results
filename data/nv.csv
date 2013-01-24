@@ -1,9 +1,9 @@
 county,candidate,votes
-CarsonCity,"GOODE, VIRGIL",136
-CarsonCity,"JOHNSON, GARY",286
-CarsonCity,"Obama, Barack",10291
-CarsonCity,"Romney, Mitt",12394
-CarsonCity,None of these Candidates,212
+Carson City,"GOODE, VIRGIL",136
+Carson City,"JOHNSON, GARY",286
+Carson City,"Obama, Barack",10291
+Carson City,"Romney, Mitt",12394
+Carson City,None of these Candidates,212
 Churchill,"GOODE, VIRGIL",76
 Churchill,"JOHNSON, GARY",84
 Churchill,"Obama, Barack",2961
@@ -79,8 +79,8 @@ Washoe,"JOHNSON, GARY",2332
 Washoe,"Obama, Barack",95409
 Washoe,"Romney, Mitt",88453
 Washoe,None of these Candidates,1121
-WhitePine,"GOODE, VIRGIL",41
-WhitePine,"JOHNSON, GARY",36
-WhitePine,"Obama, Barack",983
-WhitePine,"Romney, Mitt",2601
-WhitePine,None of these Candidates,43
+White Pine,"GOODE, VIRGIL",41
+White Pine,"JOHNSON, GARY",36
+White Pine,"Obama, Barack",983
+White Pine,"Romney, Mitt",2601
+White Pine,None of these Candidates,43

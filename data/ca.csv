@@ -1,0 +1,813 @@
+county,candidate,votes
+Alameda,Obama,469684
+Alameda,Romney,108182
+Alameda,Hoefling,1212
+Alameda,Stein,7502
+Alameda,Johnson,5471
+Alameda,Barr,2890
+Alameda,Anderson,69
+Alameda,Tittle,0
+Alpine,Obama,389
+Alpine,Romney,236
+Alpine,Hoefling,1
+Alpine,Stein,8
+Alpine,Johnson,8
+Alpine,Barr,5
+Alpine,Anderson,2
+Alpine,Tittle,0
+Amador,Obama,6830
+Amador,Romney,10281
+Amador,Hoefling,79
+Amador,Stein,88
+Amador,Johnson,242
+Amador,Barr,75
+Amador,Anderson,0
+Amador,Tittle,0
+Butte,Obama,42669
+Butte,Romney,44479
+Butte,Hoefling,454
+Butte,Stein,840
+Butte,Johnson,1334
+Butte,Barr,562
+Butte,Anderson,21
+Butte,Tittle,0
+Calaveras,Obama,8670
+Calaveras,Romney,12365
+Calaveras,Hoefling,110
+Calaveras,Stein,122
+Calaveras,Johnson,327
+Calaveras,Barr,100
+Calaveras,Anderson,6
+Calaveras,Tittle,0
+Colusa,Obama,2314
+Colusa,Romney,3601
+Colusa,Hoefling,17
+Colusa,Stein,17
+Colusa,Johnson,47
+Colusa,Barr,18
+Colusa,Anderson,2
+Colusa,Tittle,0
+Contra Costa,Obama,290824
+Contra Costa,Romney,136517
+Contra Costa,Hoefling,1391
+Contra Costa,Stein,2879
+Contra Costa,Johnson,4372
+Contra Costa,Barr,1543
+Contra Costa,Anderson,43
+Contra Costa,Tittle,0
+Del Norte,Obama,3791
+Del Norte,Romney,4614
+Del Norte,Hoefling,70
+Del Norte,Stein,90
+Del Norte,Johnson,109
+Del Norte,Barr,62
+Del Norte,Anderson,3
+Del Norte,Tittle,0
+El Dorado,Obama,35166
+El Dorado,Romney,50973
+El Dorado,Hoefling,336
+El Dorado,Stein,410
+El Dorado,Johnson,1278
+El Dorado,Barr,312
+El Dorado,Anderson,8
+El Dorado,Tittle,0
+Fresno,Obama,129129
+Fresno,Romney,124490
+Fresno,Hoefling,434
+Fresno,Stein,1101
+Fresno,Johnson,2262
+Fresno,Barr,898
+Fresno,Anderson,8
+Fresno,Tittle,3
+Glenn,Obama,3301
+Glenn,Romney,5632
+Glenn,Hoefling,57
+Glenn,Stein,30
+Glenn,Johnson,106
+Glenn,Barr,65
+Glenn,Anderson,1
+Glenn,Tittle,0
+Humboldt,Obama,34457
+Humboldt,Romney,18825
+Humboldt,Hoefling,105
+Humboldt,Stein,2505
+Humboldt,Johnson,910
+Humboldt,Barr,370
+Humboldt,Anderson,26
+Humboldt,Tittle,0
+Imperial,Obama,25136
+Imperial,Romney,12777
+Imperial,Hoefling,135
+Imperial,Stein,112
+Imperial,Johnson,227
+Imperial,Barr,146
+Imperial,Anderson,1
+Imperial,Tittle,0
+Inyo,Obama,3422
+Inyo,Romney,4340
+Inyo,Hoefling,43
+Inyo,Stein,70
+Inyo,Johnson,94
+Inyo,Barr,35
+Inyo,Anderson,0
+Inyo,Tittle,0
+Kern,Obama,89495
+Kern,Romney,126618
+Kern,Hoefling,963
+Kern,Stein,672
+Kern,Johnson,2195
+Kern,Barr,1070
+Kern,Anderson,10
+Kern,Tittle,0
+Kings,Obama,12979
+Kings,Romney,17671
+Kings,Hoefling,160
+Kings,Stein,120
+Kings,Johnson,251
+Kings,Barr,170
+Kings,Anderson,3
+Kings,Tittle,0
+Lake,Obama,13163
+Lake,Romney,9200
+Lake,Hoefling,139
+Lake,Stein,264
+Lake,Johnson,323
+Lake,Barr,229
+Lake,Anderson,7
+Lake,Tittle,0
+Lassen,Obama,3053
+Lassen,Romney,7296
+Lassen,Hoefling,49
+Lassen,Stein,42
+Lassen,Johnson,138
+Lassen,Barr,69
+Lassen,Anderson,0
+Lassen,Tittle,0
+Los Angeles,Obama,2216903
+Los Angeles,Romney,885333
+Los Angeles,Hoefling,10408
+Los Angeles,Stein,20404
+Los Angeles,Johnson,31917
+Los Angeles,Barr,14649
+Los Angeles,Anderson,93
+Los Angeles,Tittle,1
+Madera,Obama,16018
+Madera,Romney,22852
+Madera,Hoefling,174
+Madera,Stein,175
+Madera,Johnson,342
+Madera,Barr,200
+Madera,Anderson,7
+Madera,Tittle,0
+Marin,Obama,99896
+Marin,Romney,30880
+Marin,Hoefling,181
+Marin,Stein,1558
+Marin,Johnson,1333
+Marin,Barr,401
+Marin,Anderson,38
+Marin,Tittle,0
+Mariposa,Obama,3498
+Mariposa,Romney,5140
+Mariposa,Hoefling,49
+Mariposa,Stein,87
+Mariposa,Johnson,124
+Mariposa,Barr,75
+Mariposa,Anderson,0
+Mariposa,Tittle,0
+Mendocino,Obama,23193
+Mendocino,Romney,9658
+Mendocino,Hoefling,161
+Mendocino,Stein,998
+Mendocino,Johnson,482
+Mendocino,Barr,328
+Mendocino,Anderson,19
+Mendocino,Tittle,0
+Merced,Obama,33005
+Merced,Romney,27581
+Merced,Hoefling,265
+Merced,Stein,243
+Merced,Johnson,516
+Merced,Barr,311
+Merced,Anderson,3
+Merced,Tittle,0
+Modoc,Obama,1111
+Modoc,Romney,2777
+Modoc,Hoefling,11
+Modoc,Stein,20
+Modoc,Johnson,42
+Modoc,Barr,21
+Modoc,Anderson,0
+Modoc,Tittle,0
+Mono,Obama,2733
+Mono,Romney,2285
+Mono,Hoefling,17
+Mono,Stein,36
+Mono,Johnson,85
+Mono,Barr,12
+Mono,Anderson,1
+Mono,Tittle,0
+Monterey,Obama,82920
+Monterey,Romney,37390
+Monterey,Hoefling,338
+Monterey,Stein,757
+Monterey,Johnson,1341
+Monterey,Barr,524
+Monterey,Anderson,14
+Monterey,Tittle,0
+Napa,Obama,35870
+Napa,Romney,19526
+Napa,Hoefling,160
+Napa,Stein,455
+Napa,Johnson,601
+Napa,Barr,241
+Napa,Anderson,1
+Napa,Tittle,0
+Nevada,Obama,24663
+Nevada,Romney,24986
+Nevada,Hoefling,72
+Nevada,Stein,661
+Nevada,Johnson,830
+Nevada,Barr,198
+Nevada,Anderson,8
+Nevada,Tittle,0
+Orange,Obama,512440
+Orange,Romney,582332
+Orange,Hoefling,2999
+Orange,Stein,4792
+Orange,Johnson,14132
+Orange,Barr,3348
+Orange,Anderson,65
+Orange,Tittle,1
+Placer,Obama,66818
+Placer,Romney,99921
+Placer,Hoefling,502
+Placer,Stein,683
+Placer,Johnson,2307
+Placer,Barr,580
+Placer,Anderson,6
+Placer,Tittle,0
+Plumas,Obama,4026
+Plumas,Romney,5721
+Plumas,Hoefling,22
+Plumas,Stein,71
+Plumas,Johnson,128
+Plumas,Barr,40
+Plumas,Anderson,1
+Plumas,Tittle,0
+Riverside,Obama,329063
+Riverside,Romney,318127
+Riverside,Hoefling,2350
+Riverside,Stein,2243
+Riverside,Johnson,6223
+Riverside,Barr,2609
+Riverside,Anderson,20
+Riverside,Tittle,0
+Sacramento,Obama,300503
+Sacramento,Romney,202514
+Sacramento,Hoefling,1532
+Sacramento,Stein,2753
+Sacramento,Johnson,6134
+Sacramento,Barr,2419
+Sacramento,Anderson,37
+Sacramento,Tittle,0
+San Benito,Obama,11276
+San Benito,Romney,7343
+San Benito,Hoefling,57
+San Benito,Stein,78
+San Benito,Johnson,164
+San Benito,Barr,96
+San Benito,Anderson,1
+San Benito,Tittle,0
+San Bernardino,Obama,305109
+San Bernardino,Romney,262358
+San Bernardino,Hoefling,2418
+San Bernardino,Stein,2227
+San Bernardino,Johnson,5883
+San Bernardino,Barr,2608
+San Bernardino,Anderson,13
+San Bernardino,Tittle,0
+San Diego,Obama,626957
+San Diego,Romney,536726
+San Diego,Hoefling,1614
+San Diego,Stein,5787
+San Diego,Johnson,14656
+San Diego,Barr,3231
+San Diego,Anderson,70
+San Diego,Tittle,1
+San Francisco,Obama,301723
+San Francisco,Romney,47076
+San Francisco,Hoefling,439
+San Francisco,Stein,5494
+San Francisco,Johnson,4096
+San Francisco,Barr,1897
+San Francisco,Anderson,86
+San Francisco,Tittle,0
+San Joaquin,Obama,114121
+San Joaquin,Romney,86071
+San Joaquin,Hoefling,553
+San Joaquin,Stein,773
+San Joaquin,Johnson,1839
+San Joaquin,Barr,920
+San Joaquin,Anderson,6
+San Joaquin,Tittle,0
+San Luis Obispo,Obama,61258
+San Luis Obispo,Romney,59967
+San Luis Obispo,Hoefling,420
+San Luis Obispo,Stein,1085
+San Luis Obispo,Johnson,1776
+San Luis Obispo,Barr,460
+San Luis Obispo,Anderson,17
+San Luis Obispo,Tittle,0
+San Mateo,Obama,206085
+San Mateo,Romney,72756
+San Mateo,Hoefling,597
+San Mateo,Stein,1957
+San Mateo,Johnson,2926
+San Mateo,Barr,819
+San Mateo,Anderson,27
+San Mateo,Tittle,0
+Santa Barbara,Obama,94129
+Santa Barbara,Romney,64606
+Santa Barbara,Hoefling,438
+Santa Barbara,Stein,1322
+Santa Barbara,Johnson,2063
+Santa Barbara,Barr,509
+Santa Barbara,Anderson,14
+Santa Barbara,Tittle,0
+Santa Clara,Obama,450818
+Santa Clara,Romney,174843
+Santa Clara,Hoefling,1712
+Santa Clara,Stein,4391
+Santa Clara,Johnson,7889
+Santa Clara,Barr,2298
+Santa Clara,Anderson,75
+Santa Clara,Tittle,0
+Santa Cruz,Obama,90805
+Santa Cruz,Romney,24047
+Santa Cruz,Hoefling,278
+Santa Cruz,Stein,1857
+Santa Cruz,Johnson,1971
+Santa Cruz,Barr,675
+Santa Cruz,Anderson,39
+Santa Cruz,Tittle,0
+Shasta,Obama,25819
+Shasta,Romney,48067
+Shasta,Hoefling,434
+Shasta,Stein,389
+Shasta,Johnson,926
+Shasta,Barr,403
+Shasta,Anderson,5
+Shasta,Tittle,0
+Sierra,Obama,653
+Sierra,Romney,1056
+Sierra,Hoefling,12
+Sierra,Stein,24
+Sierra,Johnson,19
+Sierra,Barr,16
+Sierra,Anderson,0
+Sierra,Tittle,0
+Siskiyou,Obama,8046
+Siskiyou,Romney,11077
+Siskiyou,Hoefling,117
+Siskiyou,Stein,152
+Siskiyou,Johnson,242
+Siskiyou,Barr,133
+Siskiyou,Anderson,2
+Siskiyou,Tittle,0
+Solano,Obama,96783
+Solano,Romney,52092
+Solano,Hoefling,563
+Solano,Stein,641
+Solano,Johnson,1445
+Solano,Barr,620
+Solano,Anderson,13
+Solano,Tittle,0
+Sonoma,Obama,153942
+Sonoma,Romney,54784
+Sonoma,Hoefling,758
+Sonoma,Stein,2745
+Sonoma,Johnson,2754
+Sonoma,Barr,1128
+Sonoma,Anderson,34
+Sonoma,Tittle,0
+Stanislaus,Obama,77724
+Stanislaus,Romney,73459
+Stanislaus,Hoefling,747
+Stanislaus,Stein,563
+Stanislaus,Johnson,1499
+Stanislaus,Barr,966
+Stanislaus,Anderson,6
+Stanislaus,Tittle,0
+Sutter,Obama,12192
+Sutter,Romney,18122
+Sutter,Hoefling,157
+Sutter,Stein,89
+Sutter,Johnson,298
+Sutter,Barr,124
+Sutter,Anderson,1
+Sutter,Tittle,0
+Tehama,Obama,7934
+Tehama,Romney,14235
+Tehama,Hoefling,190
+Tehama,Stein,125
+Tehama,Johnson,244
+Tehama,Barr,186
+Tehama,Anderson,0
+Tehama,Tittle,0
+Trinity,Obama,2674
+Trinity,Romney,2716
+Trinity,Hoefling,30
+Trinity,Stein,98
+Trinity,Johnson,89
+Trinity,Barr,67
+Trinity,Anderson,0
+Trinity,Tittle,0
+Tulare,Obama,41752
+Tulare,Romney,56956
+Tulare,Hoefling,428
+Tulare,Stein,388
+Tulare,Johnson,792
+Tulare,Barr,464
+Tulare,Anderson,4
+Tulare,Tittle,0
+Tuolumne,Obama,9998
+Tuolumne,Romney,13880
+Tuolumne,Hoefling,141
+Tuolumne,Stein,145
+Tuolumne,Johnson,315
+Tuolumne,Barr,129
+Tuolumne,Anderson,0
+Tuolumne,Tittle,0
+Ventura,Obama,170929
+Ventura,Romney,147958
+Ventura,Hoefling,1049
+Ventura,Stein,1661
+Ventura,Johnson,3735
+Ventura,Barr,1087
+Ventura,Anderson,30
+Ventura,Tittle,0
+Yolo,Obama,48715
+Yolo,Romney,23368
+Yolo,Hoefling,113
+Yolo,Stein,729
+Yolo,Johnson,1063
+Yolo,Barr,280
+Yolo,Anderson,24
+Yolo,Tittle,0
+Yuba,Obama,7711
+Yuba,Romney,11275
+Yuba,Hoefling,111
+Yuba,Stein,110
+Yuba,Johnson,306
+Yuba,Barr,133
+Yuba,Anderson,2
+Yuba,Tittle,0
+Alameda,Durham,1
+Alameda,Paul,602
+Alameda,Harris,5
+Alameda,Goode,15
+Alameda,White,7
+Alameda,Alexander,2
+Alpine,Durham,0
+Alpine,Paul,4
+Alpine,Harris,0
+Alpine,Goode,0
+Alpine,White,0
+Alpine,Alexander,0
+Amador,Durham,0
+Amador,Paul,54
+Amador,Harris,0
+Amador,Goode,0
+Amador,White,0
+Amador,Alexander,0
+Butte,Durham,0
+Butte,Paul,385
+Butte,Harris,0
+Butte,Goode,3
+Butte,White,1
+Butte,Alexander,4
+Calaveras,Durham,0
+Calaveras,Paul,86
+Calaveras,Harris,0
+Calaveras,Goode,0
+Calaveras,White,0
+Calaveras,Alexander,0
+Colusa,Durham,0
+Colusa,Paul,18
+Colusa,Harris,0
+Colusa,Goode,0
+Colusa,White,0
+Colusa,Alexander,0
+Contra Costa,Durham,3
+Contra Costa,Paul,627
+Contra Costa,Harris,6
+Contra Costa,Goode,20
+Contra Costa,White,0
+Contra Costa,Alexander,1
+Del Norte,Durham,0
+Del Norte,Paul,31
+Del Norte,Harris,0
+Del Norte,Goode,0
+Del Norte,White,0
+Del Norte,Alexander,0
+El Dorado,Durham,0
+El Dorado,Paul,284
+El Dorado,Harris,0
+El Dorado,Goode,7
+El Dorado,White,0
+El Dorado,Alexander,0
+Fresno,Durham,0
+Fresno,Paul,485
+Fresno,Harris,0
+Fresno,Goode,16
+Fresno,White,0
+Fresno,Alexander,1
+Glenn,Durham,0
+Glenn,Paul,19
+Glenn,Harris,0
+Glenn,Goode,0
+Glenn,White,0
+Glenn,Alexander,0
+Humboldt,Durham,0
+Humboldt,Paul,266
+Humboldt,Harris,0
+Humboldt,Goode,4
+Humboldt,White,0
+Humboldt,Alexander,2
+Imperial,Durham,0
+Imperial,Paul,28
+Imperial,Harris,0
+Imperial,Goode,2
+Imperial,White,0
+Imperial,Alexander,1
+Inyo,Durham,0
+Inyo,Paul,29
+Inyo,Harris,0
+Inyo,Goode,1
+Inyo,White,0
+Inyo,Alexander,2
+Kern,Durham,1
+Kern,Paul,431
+Kern,Harris,0
+Kern,Goode,16
+Kern,White,1
+Kern,Alexander,0
+Kings,Durham,0
+Kings,Paul,62
+Kings,Harris,0
+Kings,Goode,1
+Kings,White,0
+Kings,Alexander,1
+Lake,Durham,0
+Lake,Paul,66
+Lake,Harris,0
+Lake,Goode,0
+Lake,White,0
+Lake,Alexander,0
+Lassen,Durham,0
+Lassen,Paul,36
+Lassen,Harris,0
+Lassen,Goode,0
+Lassen,White,0
+Lassen,Alexander,0
+Los Angeles,Durham,10
+Los Angeles,Paul,1258
+Los Angeles,Harris,19
+Los Angeles,Goode,34
+Los Angeles,White,22
+Los Angeles,Alexander,16
+Madera,Durham,0
+Madera,Paul,93
+Madera,Harris,1
+Madera,Goode,4
+Madera,White,0
+Madera,Alexander,0
+Marin,Durham,1
+Marin,Paul,217
+Marin,Harris,3
+Marin,Goode,7
+Marin,White,0
+Marin,Alexander,1
+Mariposa,Durham,0
+Mariposa,Paul,25
+Mariposa,Harris,0
+Mariposa,Goode,2
+Mariposa,White,0
+Mariposa,Alexander,0
+Mendocino,Durham,0
+Mendocino,Paul,177
+Mendocino,Harris,0
+Mendocino,Goode,0
+Mendocino,White,1
+Mendocino,Alexander,0
+Merced,Durham,0
+Merced,Paul,130
+Merced,Harris,0
+Merced,Goode,3
+Merced,White,0
+Merced,Alexander,0
+Modoc,Durham,0
+Modoc,Paul,4
+Modoc,Harris,0
+Modoc,Goode,0
+Modoc,White,0
+Modoc,Alexander,0
+Mono,Durham,0
+Mono,Paul,12
+Mono,Harris,0
+Mono,Goode,0
+Mono,White,0
+Mono,Alexander,0
+Monterey,Durham,0
+Monterey,Paul,227
+Monterey,Harris,0
+Monterey,Goode,6
+Monterey,White,0
+Monterey,Alexander,1
+Napa,Durham,0
+Napa,Paul,107
+Napa,Harris,0
+Napa,Goode,4
+Napa,White,1
+Napa,Alexander,2
+Nevada,Durham,1
+Nevada,Paul,256
+Nevada,Harris,0
+Nevada,Goode,1
+Nevada,White,0
+Nevada,Alexander,0
+Orange,Durham,1
+Orange,Paul,2485
+Orange,Harris,3
+Orange,Goode,58
+Orange,White,1
+Orange,Alexander,7
+Placer,Durham,0
+Placer,Paul,502
+Placer,Harris,0
+Placer,Goode,2
+Placer,White,0
+Placer,Alexander,1
+Plumas,Durham,0
+Plumas,Paul,38
+Plumas,Harris,0
+Plumas,Goode,0
+Plumas,White,0
+Plumas,Alexander,0
+Riverside,Durham,0
+Riverside,Paul,1212
+Riverside,Harris,0
+Riverside,Goode,45
+Riverside,White,5
+Riverside,Alexander,10
+Sacramento,Durham,1
+Sacramento,Paul,879
+Sacramento,Harris,1
+Sacramento,Goode,32
+Sacramento,White,3
+Sacramento,Alexander,1
+San Benito,Durham,0
+San Benito,Paul,29
+San Benito,Harris,0
+San Benito,Goode,0
+San Benito,White,0
+San Benito,Alexander,0
+San Bernardino,Durham,0
+San Bernardino,Paul,878
+San Bernardino,Harris,0
+San Bernardino,Goode,22
+San Bernardino,White,0
+San Bernardino,Alexander,1
+San Diego,Durham,0
+San Diego,Paul,3140
+San Diego,Harris,10
+San Diego,Goode,70
+San Diego,White,13
+San Diego,Alexander,7
+San Francisco,Durham,28
+San Francisco,Paul,347
+San Francisco,Harris,10
+San Francisco,Goode,2
+San Francisco,White,5
+San Francisco,Alexander,6
+San Joaquin,Durham,0
+San Joaquin,Paul,402
+San Joaquin,Harris,1
+San Joaquin,Goode,10
+San Joaquin,White,1
+San Joaquin,Alexander,0
+San Luis Obispo,Durham,0
+San Luis Obispo,Paul,631
+San Luis Obispo,Harris,1
+San Luis Obispo,Goode,21
+San Luis Obispo,White,2
+San Luis Obispo,Alexander,0
+San Mateo,Durham,1
+San Mateo,Paul,535
+San Mateo,Harris,6
+San Mateo,Goode,5
+San Mateo,White,2
+San Mateo,Alexander,4
+Santa Barbara,Durham,0
+Santa Barbara,Paul,234
+Santa Barbara,Harris,1
+Santa Barbara,Goode,3
+Santa Barbara,White,1
+Santa Barbara,Alexander,0
+Santa Clara,Durham,0
+Santa Clara,Paul,1040
+Santa Clara,Harris,2
+Santa Clara,Goode,13
+Santa Clara,White,5
+Santa Clara,Alexander,5
+Santa Cruz,Durham,2
+Santa Cruz,Paul,415
+Santa Cruz,Harris,0
+Santa Cruz,Goode,5
+Santa Cruz,White,1
+Santa Cruz,Alexander,0
+Shasta,Durham,0
+Shasta,Paul,285
+Shasta,Harris,0
+Shasta,Goode,7
+Shasta,White,0
+Shasta,Alexander,0
+Sierra,Durham,0
+Sierra,Paul,15
+Sierra,Harris,0
+Sierra,Goode,0
+Sierra,White,0
+Sierra,Alexander,0
+Siskiyou,Durham,0
+Siskiyou,Paul,141
+Siskiyou,Harris,0
+Siskiyou,Goode,0
+Siskiyou,White,0
+Siskiyou,Alexander,0
+Solano,Durham,1
+Solano,Paul,278
+Solano,Harris,2
+Solano,Goode,6
+Solano,White,0
+Solano,Alexander,0
+Sonoma,Durham,0
+Sonoma,Paul,355
+Sonoma,Harris,0
+Sonoma,Goode,2
+Sonoma,White,4
+Sonoma,Alexander,2
+Stanislaus,Durham,0
+Stanislaus,Paul,390
+Stanislaus,Harris,0
+Stanislaus,Goode,15
+Stanislaus,White,0
+Stanislaus,Alexander,0
+Sutter,Durham,0
+Sutter,Paul,43
+Sutter,Harris,0
+Sutter,Goode,0
+Sutter,White,0
+Sutter,Alexander,0
+Tehama,Durham,0
+Tehama,Paul,63
+Tehama,Harris,0
+Tehama,Goode,0
+Tehama,White,0
+Tehama,Alexander,0
+Trinity,Durham,0
+Trinity,Paul,0
+Trinity,Harris,0
+Trinity,Goode,0
+Trinity,White,0
+Trinity,Alexander,0
+Tulare,Durham,0
+Tulare,Paul,297
+Tulare,Harris,0
+Tulare,Goode,19
+Tulare,White,0
+Tulare,Alexander,0
+Tuolumne,Durham,0
+Tuolumne,Paul,79
+Tuolumne,Harris,0
+Tuolumne,Goode,0
+Tuolumne,White,0
+Tuolumne,Alexander,0
+Ventura,Durham,1
+Ventura,Paul,503
+Ventura,Harris,1
+Ventura,Goode,16
+Ventura,White,2
+Ventura,Alexander,2
+Yolo,Durham,2
+Yolo,Paul,174
+Yolo,Harris,0
+Yolo,Goode,4
+Yolo,White,1
+Yolo,Alexander,2
+Yuba,Durham,0
+Yuba,Paul,52
+Yuba,Harris,0
+Yuba,Goode,0
+Yuba,White,0
+Yuba,Alexander,0

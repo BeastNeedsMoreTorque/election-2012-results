@@ -1,0 +1,608 @@
+county,candidate,votes
+Albany,Obama/Biden (DEM),83978
+Albany,Romney/Ryan (REP),40210
+Albany,Romney/Ryan (CON),4854
+Albany,Obama/Biden (WOR),3577
+Albany,Stein/Honkala (GRN),1238
+Albany,Lindsay/Osorio (PSL),52
+Albany,Johnson/Gray (LBT),1361
+Albany,Good/Clymer (CST),164
+Allegany,Obama/Biden (DEM),5866
+Allegany,Romney/Ryan (REP),9377
+Allegany,Romney/Ryan (CON),1013
+Allegany,Obama/Biden (WOR),273
+Allegany,Stein/Honkala (GRN),162
+Allegany,Lindsay/Osorio (PSL),8
+Allegany,Johnson/Gray (LBT),168
+Allegany,Good/Clymer (CST),28
+Broome,Obama/Biden (DEM),39971
+Broome,Romney/Ryan (REP),34708
+Broome,Romney/Ryan (CON),2933
+Broome,Obama/Biden (WOR),1999
+Broome,Stein/Honkala (GRN),723
+Broome,Lindsay/Osorio (PSL),21
+Broome,Johnson/Gray (LBT),915
+Broome,Good/Clymer (CST),106
+Cattaraugus,Obama/Biden (DEM),12040
+Cattaraugus,Romney/Ryan (REP),14655
+Cattaraugus,Romney/Ryan (CON),1914
+Cattaraugus,Obama/Biden (WOR),609
+Cattaraugus,Stein/Honkala (GRN),201
+Cattaraugus,Lindsay/Osorio (PSL),13
+Cattaraugus,Johnson/Gray (LBT),274
+Cattaraugus,Good/Clymer (CST),59
+Cayuga,Obama/Biden (DEM),16105
+Cayuga,Romney/Ryan (REP),11646
+Cayuga,Romney/Ryan (CON),1808
+Cayuga,Obama/Biden (WOR),902
+Cayuga,Stein/Honkala (GRN),243
+Cayuga,Lindsay/Osorio (PSL),11
+Cayuga,Johnson/Gray (LBT),285
+Cayuga,Good/Clymer (CST),81
+Chautauqua,Obama/Biden (DEM),22463
+Chautauqua,Romney/Ryan (REP),24266
+Chautauqua,Romney/Ryan (CON),3705
+Chautauqua,Obama/Biden (WOR),1349
+Chautauqua,Stein/Honkala (GRN),324
+Chautauqua,Lindsay/Osorio (PSL),17
+Chautauqua,Johnson/Gray (LBT),504
+Chautauqua,Good/Clymer (CST),58
+Chemung,Obama/Biden (DEM),16205
+Chemung,Romney/Ryan (REP),16138
+Chemung,Romney/Ryan (CON),1474
+Chemung,Obama/Biden (WOR),592
+Chemung,Stein/Honkala (GRN),151
+Chemung,Lindsay/Osorio (PSL),4
+Chemung,Johnson/Gray (LBT),310
+Chemung,Good/Clymer (CST),73
+Chenango,Obama/Biden (DEM),8642
+Chenango,Romney/Ryan (REP),8922
+Chenango,Romney/Ryan (CON),791
+Chenango,Obama/Biden (WOR),474
+Chenango,Stein/Honkala (GRN),157
+Chenango,Lindsay/Osorio (PSL),6
+Chenango,Johnson/Gray (LBT),218
+Chenango,Good/Clymer (CST),46
+Clinton,Obama/Biden (DEM),18072
+Clinton,Romney/Ryan (REP),9892
+Clinton,Romney/Ryan (CON),1223
+Clinton,Obama/Biden (WOR),889
+Clinton,Stein/Honkala (GRN),193
+Clinton,Lindsay/Osorio (PSL),9
+Clinton,Johnson/Gray (LBT),260
+Clinton,Good/Clymer (CST),39
+Columbia,Obama/Biden (DEM),15241
+Columbia,Romney/Ryan (REP),10600
+Columbia,Romney/Ryan (CON),1625
+Columbia,Obama/Biden (WOR),980
+Columbia,Stein/Honkala (GRN),259
+Columbia,Lindsay/Osorio (PSL),14
+Columbia,Johnson/Gray (LBT),299
+Columbia,Good/Clymer (CST),41
+Cortland,Obama/Biden (DEM),9965
+Cortland,Romney/Ryan (REP),7859
+Cortland,Romney/Ryan (CON),836
+Cortland,Obama/Biden (WOR),517
+Cortland,Stein/Honkala (GRN),161
+Cortland,Lindsay/Osorio (PSL),7
+Cortland,Johnson/Gray (LBT),187
+Cortland,Good/Clymer (CST),29
+Delaware,Obama/Biden (DEM),7881
+Delaware,Romney/Ryan (REP),9086
+Delaware,Romney/Ryan (CON),852
+Delaware,Obama/Biden (WOR),423
+Delaware,Stein/Honkala (GRN),199
+Delaware,Lindsay/Osorio (PSL),3
+Delaware,Johnson/Gray (LBT),170
+Delaware,Good/Clymer (CST),24
+Dutchess,Obama/Biden (DEM),62063
+Dutchess,Romney/Ryan (REP),48264
+Dutchess,Romney/Ryan (CON),7761
+Dutchess,Obama/Biden (WOR),3249
+Dutchess,Stein/Honkala (GRN),785
+Dutchess,Lindsay/Osorio (PSL),51
+Dutchess,Johnson/Gray (LBT),1105
+Dutchess,Good/Clymer (CST),146
+Erie,Obama/Biden (DEM),227325
+Erie,Romney/Ryan (REP),149683
+Erie,Romney/Ryan (CON),19992
+Erie,Obama/Biden (WOR),10031
+Erie,Stein/Honkala (GRN),2898
+Erie,Lindsay/Osorio (PSL),142
+Erie,Johnson/Gray (LBT),3562
+Erie,Good/Clymer (CST),541
+Essex,Obama/Biden (DEM),9368
+Essex,Romney/Ryan (REP),6076
+Essex,Romney/Ryan (CON),571
+Essex,Obama/Biden (WOR),416
+Essex,Stein/Honkala (GRN),107
+Essex,Lindsay/Osorio (PSL),4
+Essex,Johnson/Gray (LBT),134
+Essex,Good/Clymer (CST),27
+Franklin,Obama/Biden (DEM),9532
+Franklin,Romney/Ryan (REP),5231
+Franklin,Romney/Ryan (CON),509
+Franklin,Obama/Biden (WOR),362
+Franklin,Stein/Honkala (GRN),106
+Franklin,Lindsay/Osorio (PSL),7
+Franklin,Johnson/Gray (LBT),116
+Franklin,Good/Clymer (CST),20
+Fulton,Obama/Biden (DEM),8331
+Fulton,Romney/Ryan (REP),9830
+Fulton,Romney/Ryan (CON),984
+Fulton,Obama/Biden (WOR),276
+Fulton,Stein/Honkala (GRN),111
+Fulton,Lindsay/Osorio (PSL),13
+Fulton,Johnson/Gray (LBT),159
+Fulton,Good/Clymer (CST),42
+Genesee,Obama/Biden (DEM),9092
+Genesee,Romney/Ryan (REP),12814
+Genesee,Romney/Ryan (CON),1793
+Genesee,Obama/Biden (WOR),509
+Genesee,Stein/Honkala (GRN),115
+Genesee,Lindsay/Osorio (PSL),7
+Genesee,Johnson/Gray (LBT),363
+Genesee,Good/Clymer (CST),42
+Greene,Obama/Biden (DEM),8384
+Greene,Romney/Ryan (REP),9737
+Greene,Romney/Ryan (CON),1352
+Greene,Obama/Biden (WOR),538
+Greene,Stein/Honkala (GRN),140
+Greene,Lindsay/Osorio (PSL),10
+Greene,Johnson/Gray (LBT),231
+Greene,Good/Clymer (CST),61
+Hamilton,Obama/Biden (DEM),1092
+Hamilton,Romney/Ryan (REP),1771
+Hamilton,Romney/Ryan (CON),161
+Hamilton,Obama/Biden (WOR),36
+Hamilton,Stein/Honkala (GRN),14
+Hamilton,Johnson/Gray (LBT),28
+Hamilton,Good/Clymer (CST),11
+Herkimer,Obama/Biden (DEM),10826
+Herkimer,Romney/Ryan (REP),12166
+Herkimer,Romney/Ryan (CON),1116
+Herkimer,Obama/Biden (WOR),447
+Herkimer,Stein/Honkala (GRN),172
+Herkimer,Lindsay/Osorio (PSL),7
+Herkimer,Johnson/Gray (LBT),259
+Herkimer,Good/Clymer (CST),42
+Jefferson,Obama/Biden (DEM),16231
+Jefferson,Romney/Ryan (REP),16435
+Jefferson,Romney/Ryan (CON),1687
+Jefferson,Obama/Biden (WOR),868
+Jefferson,Stein/Honkala (GRN),151
+Jefferson,Lindsay/Osorio (PSL),4
+Jefferson,Johnson/Gray (LBT),271
+Jefferson,Good/Clymer (CST),61
+Lewis,Obama/Biden (DEM),4530
+Lewis,Romney/Ryan (REP),5129
+Lewis,Romney/Ryan (CON),522
+Lewis,Obama/Biden (WOR),194
+Lewis,Stein/Honkala (GRN),51
+Lewis,Lindsay/Osorio (PSL),2
+Lewis,Johnson/Gray (LBT),81
+Lewis,Good/Clymer (CST),13
+Livingston,Obama/Biden (DEM),11100
+Livingston,Romney/Ryan (REP),12641
+Livingston,Romney/Ryan (CON),1807
+Livingston,Obama/Biden (WOR),605
+Livingston,Stein/Honkala (GRN),175
+Livingston,Lindsay/Osorio (PSL),6
+Livingston,Johnson/Gray (LBT),318
+Livingston,Good/Clymer (CST),49
+Madison,Obama/Biden (DEM),13231
+Madison,Romney/Ryan (REP),12011
+Madison,Romney/Ryan (CON),1611
+Madison,Obama/Biden (WOR),640
+Madison,Stein/Honkala (GRN),238
+Madison,Lindsay/Osorio (PSL),10
+Madison,Johnson/Gray (LBT),297
+Madison,Good/Clymer (CST),56
+Monroe,Obama/Biden (DEM),185916
+Monroe,Romney/Ryan (REP),114434
+Monroe,Romney/Ryan (CON),18928
+Monroe,Obama/Biden (WOR),7585
+Monroe,Stein/Honkala (GRN),2101
+Monroe,Lindsay/Osorio (PSL),91
+Monroe,Johnson/Gray (LBT),3572
+Monroe,Good/Clymer (CST),334
+Montgomery,Obama/Biden (DEM),8106
+Montgomery,Romney/Ryan (REP),8046
+Montgomery,Romney/Ryan (CON),1288
+Montgomery,Obama/Biden (WOR),387
+Montgomery,Stein/Honkala (GRN),93
+Montgomery,Lindsay/Osorio (PSL),5
+Montgomery,Johnson/Gray (LBT),161
+Montgomery,Good/Clymer (CST),41
+Nassau,Obama/Biden (DEM),294661
+Nassau,Romney/Ryan (REP),237862
+Nassau,Romney/Ryan (CON),21446
+Nassau,Obama/Biden (WOR),8034
+Nassau,Stein/Honkala (GRN),2068
+Nassau,Lindsay/Osorio (PSL),111
+Nassau,Johnson/Gray (LBT),2998
+Nassau,Good/Clymer (CST),294
+Niagara,Obama/Biden (DEM),41837
+Niagara,Romney/Ryan (REP),38158
+Niagara,Romney/Ryan (CON),5082
+Niagara,Obama/Biden (WOR),2149
+Niagara,Stein/Honkala (GRN),560
+Niagara,Lindsay/Osorio (PSL),31
+Niagara,Johnson/Gray (LBT),864
+Niagara,Good/Clymer (CST),98
+Oneida,Obama/Biden (DEM),39031
+Oneida,Romney/Ryan (REP),40532
+Oneida,Romney/Ryan (CON),3998
+Oneida,Obama/Biden (WOR),1437
+Oneida,Stein/Honkala (GRN),502
+Oneida,Lindsay/Osorio (PSL),17
+Oneida,Johnson/Gray (LBT),819
+Oneida,Good/Clymer (CST),168
+Onondaga,Obama/Biden (DEM),117470
+Onondaga,Romney/Ryan (REP),69357
+Onondaga,Romney/Ryan (CON),9474
+Onondaga,Obama/Biden (WOR),4784
+Onondaga,Stein/Honkala (GRN),1584
+Onondaga,Lindsay/Osorio (PSL),55
+Onondaga,Johnson/Gray (LBT),1697
+Onondaga,Good/Clymer (CST),295
+Ontario,Obama/Biden (DEM),22065
+Ontario,Romney/Ryan (REP),20919
+Ontario,Romney/Ryan (CON),2901
+Ontario,Obama/Biden (WOR),1022
+Ontario,Stein/Honkala (GRN),294
+Ontario,Lindsay/Osorio (PSL),11
+Ontario,Johnson/Gray (LBT),571
+Ontario,Good/Clymer (CST),66
+Orange,Obama/Biden (DEM),70742
+Orange,Romney/Ryan (REP),58003
+Orange,Romney/Ryan (CON),7364
+Orange,Obama/Biden (WOR),2573
+Orange,Stein/Honkala (GRN),700
+Orange,Lindsay/Osorio (PSL),32
+Orange,Johnson/Gray (LBT),1049
+Orange,Good/Clymer (CST),162
+Orleans,Obama/Biden (DEM),5505
+Orleans,Romney/Ryan (REP),7585
+Orleans,Romney/Ryan (CON),1009
+Orleans,Obama/Biden (WOR),282
+Orleans,Stein/Honkala (GRN),81
+Orleans,Lindsay/Osorio (PSL),3
+Orleans,Johnson/Gray (LBT),165
+Orleans,Good/Clymer (CST),36
+Oswego,Obama/Biden (DEM),22178
+Oswego,Romney/Ryan (REP),17610
+Oswego,Romney/Ryan (CON),2370
+Oswego,Obama/Biden (WOR),1337
+Oswego,Stein/Honkala (GRN),379
+Oswego,Lindsay/Osorio (PSL),15
+Oswego,Johnson/Gray (LBT),447
+Oswego,Good/Clymer (CST),114
+Otsego,Obama/Biden (DEM),11530
+Otsego,Romney/Ryan (REP),10451
+Otsego,Romney/Ryan (CON),1010
+Otsego,Obama/Biden (WOR),587
+Otsego,Stein/Honkala (GRN),238
+Otsego,Lindsay/Osorio (PSL),7
+Otsego,Johnson/Gray (LBT),212
+Otsego,Good/Clymer (CST),28
+Putnam,Obama/Biden (DEM),18539
+Putnam,Romney/Ryan (REP),20925
+Putnam,Romney/Ryan (CON),3158
+Putnam,Obama/Biden (WOR),973
+Putnam,Stein/Honkala (GRN),209
+Putnam,Lindsay/Osorio (PSL),10
+Putnam,Johnson/Gray (LBT),397
+Putnam,Good/Clymer (CST),37
+Rensselaer,Obama/Biden (DEM),35373
+Rensselaer,Romney/Ryan (REP),24903
+Rensselaer,Romney/Ryan (CON),4210
+Rensselaer,Obama/Biden (WOR),2035
+Rensselaer,Stein/Honkala (GRN),612
+Rensselaer,Lindsay/Osorio (PSL),19
+Rensselaer,Johnson/Gray (LBT),754
+Rensselaer,Good/Clymer (CST),80
+Rockland,Obama/Biden (DEM),63908
+Rockland,Romney/Ryan (REP),51976
+Rockland,Romney/Ryan (CON),5387
+Rockland,Obama/Biden (WOR),1749
+Rockland,Stein/Honkala (GRN),474
+Rockland,Lindsay/Osorio (PSL),17
+Rockland,Johnson/Gray (LBT),631
+Rockland,Good/Clymer (CST),124
+Saratoga,Obama/Biden (DEM),50998
+Saratoga,Romney/Ryan (REP),44915
+Saratoga,Romney/Ryan (CON),5467
+Saratoga,Obama/Biden (WOR),1959
+Saratoga,Stein/Honkala (GRN),651
+Saratoga,Lindsay/Osorio (PSL),20
+Saratoga,Johnson/Gray (LBT),1147
+Saratoga,Good/Clymer (CST),115
+Schenectady,Obama/Biden (DEM),35330
+Schenectady,Romney/Ryan (REP),22952
+Schenectady,Romney/Ryan (CON),3616
+Schenectady,Obama/Biden (WOR),1514
+Schenectady,Stein/Honkala (GRN),514
+Schenectady,Lindsay/Osorio (PSL),19
+Schenectady,Johnson/Gray (LBT),692
+Schenectady,Good/Clymer (CST),131
+Schoharie,Obama/Biden (DEM),5119
+Schoharie,Romney/Ryan (REP),6497
+Schoharie,Romney/Ryan (CON),970
+Schoharie,Obama/Biden (WOR),308
+Schoharie,Stein/Honkala (GRN),108
+Schoharie,Lindsay/Osorio (PSL),7
+Schoharie,Johnson/Gray (LBT),129
+Schoharie,Good/Clymer (CST),20
+Schuyler,Obama/Biden (DEM),3444
+Schuyler,Romney/Ryan (REP),3798
+Schuyler,Romney/Ryan (CON),483
+Schuyler,Obama/Biden (WOR),230
+Schuyler,Stein/Honkala (GRN),75
+Schuyler,Lindsay/Osorio (PSL),1
+Schuyler,Johnson/Gray (LBT),80
+Schuyler,Good/Clymer (CST),19
+Seneca,Obama/Biden (DEM),6715
+Seneca,Romney/Ryan (REP),5244
+Seneca,Romney/Ryan (CON),645
+Seneca,Obama/Biden (WOR),379
+Seneca,Stein/Honkala (GRN),101
+Seneca,Lindsay/Osorio (PSL),5
+Seneca,Johnson/Gray (LBT),110
+Seneca,Good/Clymer (CST),16
+St. Lawrence,Obama/Biden (DEM),20488
+St. Lawrence,Romney/Ryan (REP),13543
+St. Lawrence,Romney/Ryan (CON),1595
+St. Lawrence,Obama/Biden (WOR),865
+St. Lawrence,Stein/Honkala (GRN),227
+St. Lawrence,Lindsay/Osorio (PSL),10
+St. Lawrence,Johnson/Gray (LBT),276
+St. Lawrence,Good/Clymer (CST),63
+Steuben,Obama/Biden (DEM),15015
+Steuben,Romney/Ryan (REP),20163
+Steuben,Romney/Ryan (CON),1791
+Steuben,Obama/Biden (WOR),772
+Steuben,Stein/Honkala (GRN),232
+Steuben,Lindsay/Osorio (PSL),7
+Steuben,Johnson/Gray (LBT),373
+Steuben,Good/Clymer (CST),81
+Suffolk,Obama/Biden (DEM),287519
+Suffolk,Romney/Ryan (REP),243258
+Suffolk,Romney/Ryan (CON),35881
+Suffolk,Obama/Biden (WOR),11704
+Suffolk,Stein/Honkala (GRN),2485
+Suffolk,Lindsay/Osorio (PSL),142
+Suffolk,Johnson/Gray (LBT),3846
+Suffolk,Good/Clymer (CST),517
+Sullivan,Obama/Biden (DEM),14612
+Sullivan,Romney/Ryan (REP),11347
+Sullivan,Romney/Ryan (CON),1358
+Sullivan,Obama/Biden (WOR),656
+Sullivan,Stein/Honkala (GRN),188
+Sullivan,Lindsay/Osorio (PSL),7
+Sullivan,Johnson/Gray (LBT),195
+Sullivan,Good/Clymer (CST),50
+Tioga,Obama/Biden (DEM),8544
+Tioga,Romney/Ryan (REP),11160
+Tioga,Romney/Ryan (CON),957
+Tioga,Obama/Biden (WOR),396
+Tioga,Stein/Honkala (GRN),172
+Tioga,Lindsay/Osorio (PSL),3
+Tioga,Johnson/Gray (LBT),240
+Tioga,Good/Clymer (CST),59
+Tompkins,Obama/Biden (DEM),24872
+Tompkins,Romney/Ryan (REP),10191
+Tompkins,Romney/Ryan (CON),916
+Tompkins,Obama/Biden (WOR),2372
+Tompkins,Stein/Honkala (GRN),834
+Tompkins,Lindsay/Osorio (PSL),30
+Tompkins,Johnson/Gray (LBT),395
+Tompkins,Good/Clymer (CST),33
+Ulster,Obama/Biden (DEM),43837
+Ulster,Romney/Ryan (REP),25572
+Ulster,Romney/Ryan (CON),3590
+Ulster,Obama/Biden (WOR),3228
+Ulster,Stein/Honkala (GRN),935
+Ulster,Lindsay/Osorio (PSL),44
+Ulster,Johnson/Gray (LBT),751
+Ulster,Good/Clymer (CST),78
+Warren,Obama/Biden (DEM),14276
+Warren,Romney/Ryan (REP),12925
+Warren,Romney/Ryan (CON),1194
+Warren,Obama/Biden (WOR),530
+Warren,Stein/Honkala (GRN),220
+Warren,Lindsay/Osorio (PSL),8
+Warren,Johnson/Gray (LBT),312
+Warren,Good/Clymer (CST),49
+Washington,Obama/Biden (DEM),10993
+Washington,Romney/Ryan (REP),9793
+Washington,Romney/Ryan (CON),1292
+Washington,Obama/Biden (WOR),530
+Washington,Stein/Honkala (GRN),177
+Washington,Lindsay/Osorio (PSL),6
+Washington,Johnson/Gray (LBT),222
+Washington,Good/Clymer (CST),43
+Wayne,Obama/Biden (DEM),15732
+Wayne,Romney/Ryan (REP),17248
+Wayne,Romney/Ryan (CON),2812
+Wayne,Obama/Biden (WOR),903
+Wayne,Stein/Honkala (GRN),222
+Wayne,Lindsay/Osorio (PSL),15
+Wayne,Johnson/Gray (LBT),424
+Wayne,Good/Clymer (CST),83
+Westchester,Obama/Biden (DEM),234778
+Westchester,Romney/Ryan (REP),131139
+Westchester,Romney/Ryan (CON),11983
+Westchester,Obama/Biden (WOR),6007
+Westchester,Stein/Honkala (GRN),1627
+Westchester,Lindsay/Osorio (PSL),76
+Westchester,Johnson/Gray (LBT),2042
+Westchester,Good/Clymer (CST),228
+Wyoming,Obama/Biden (DEM),5357
+Wyoming,Romney/Ryan (REP),9248
+Wyoming,Romney/Ryan (CON),1100
+Wyoming,Obama/Biden (WOR),304
+Wyoming,Stein/Honkala (GRN),96
+Wyoming,Lindsay/Osorio (PSL),6
+Wyoming,Johnson/Gray (LBT),135
+Wyoming,Good/Clymer (CST),55
+Yates,Obama/Biden (DEM),4259
+Yates,Romney/Ryan (REP),4269
+Yates,Romney/Ryan (CON),529
+Yates,Obama/Biden (WOR),229
+Yates,Stein/Honkala (GRN),67
+Yates,Lindsay/Osorio (PSL),3
+Yates,Johnson/Gray (LBT),69
+Yates,Good/Clymer (CST),17
+Bronx,Obama/Biden (DEM),334600
+Bronx,Romney/Ryan (REP),26680
+Bronx,Romney/Ryan (CON),3285
+Bronx,Obama/Biden (WOR),4569
+Bronx,Stein/Honkala (GRN),774
+Bronx,Lindsay/Osorio (PSL),105
+Bronx,Johnson/Gray (LBT),608
+Bronx,Good/Clymer (CST),122
+Kings,Obama/Biden (DEM),580225
+Kings,Romney/Ryan (REP),112957
+Kings,Romney/Ryan (CON),10732
+Kings,Obama/Biden (WOR),18709
+Kings,Stein/Honkala (GRN),4365
+Kings,Lindsay/Osorio (PSL),217
+Kings,Johnson/Gray (LBT),2473
+Kings,Good/Clymer (CST),275
+New York,Obama/Biden (DEM),486172
+New York,Romney/Ryan (REP),84810
+New York,Romney/Ryan (CON),4309
+New York,Obama/Biden (WOR),13987
+New York,Stein/Honkala (GRN),3833
+New York,Lindsay/Osorio (PSL),227
+New York,Johnson/Gray (LBT),3087
+New York,Good/Clymer (CST),146
+Queens,Obama/Biden (DEM),461391
+Queens,Romney/Ryan (REP),108864
+Queens,Romney/Ryan (CON),9707
+Queens,Obama/Biden (WOR),9187
+Queens,Stein/Honkala (GRN),2465
+Queens,Lindsay/Osorio (PSL),183
+Queens,Johnson/Gray (LBT),2375
+Queens,Good/Clymer (CST),254
+Richmond,Obama/Biden (DEM),75557
+Richmond,Romney/Ryan (REP),66916
+Richmond,Romney/Ryan (CON),7304
+Richmond,Obama/Biden (WOR),2616
+Richmond,Stein/Honkala (GRN),519
+Richmond,Lindsay/Osorio (PSL),46
+Richmond,Johnson/Gray (LBT),899
+Richmond,Good/Clymer (CST),80
+Albany,Scattering,332
+Allegany,Scattering,58
+Broome,Scattering,189
+Cattaraugus,Ross C. Anderson,1
+Cattaraugus,Kevin Thorne,1
+Cattaraugus,Jerry White,346
+Cattaraugus,Scattering,346
+Cayuga,Scattering,88
+Chautauqua,Scattering,166
+Chemung,Scattering,63
+Chenango,Scattering,58
+Clinton,Scattering,79
+Columbia,Scattering,70
+Cortland,Scattering,63
+Dutchess,Ross C. Anderson,7
+Dutchess,Scattering,274
+Erie,Ross C. Anderson,16
+Erie,Tom Hoeffling,3
+Erie,Merlin Miller,2
+Essex,James Harris,1
+Essex,Scattering,13
+Franklin,Scattering,51
+Fulton,Scattering,53
+Genesee,Tom Hoeffling,3
+Genesee,Scattering,8
+Greene,Scattering,19
+Hamilton,Scattering,9
+Herkimer,Scattering,5
+Livingston,Ross C. Anderson,3
+Livingston,Scattering,66
+Monroe,Ross C. Anderson,1
+Monroe,Tom Hoeffling,19
+Monroe,Jill Reed,3
+Monroe,Jerry White,2
+Monroe,Scattering,827
+Montgomery,Ross C. Anderson,1
+Montgomery,Scattering,58
+Nassau,Scattering,677
+Niagara,Jill Reed,1
+Niagara,Scattering,233
+Oneida,Scattering,196
+Onondaga,Scattering,1
+Ontario,Ross C. Anderson,2
+Ontario,Scattering,2
+Orange,Ross C. Anderson,1
+Orange,Tom Hoeffling,1
+Orange,Scattering,1
+Orleans,Merlin Miller,1
+Orleans,Scattering,39
+Oswego,Scattering,141
+Otsego,Jerry White,1
+Otsego,Scattering,75
+Putnam,Scattering,97
+Rensselaer,Ross C. Anderson,4
+Rockland,Ross C. Anderson,7
+Rockland,James Harris,2
+Rockland,Scattering,167
+Saratoga,Ross C. Anderson,2
+Saratoga,Jill Reed,2
+Saratoga,Scattering,234
+Schenectady,Scattering,165
+Schoharie,Scattering,49
+Schuyler,Scattering,16
+Seneca,Scattering,51
+St. Lawrence,Scattering,124
+Steuben,Tom Hoeffling,2
+Steuben,Scattering,95
+Suffolk,Scattering,906
+Sullivan,Scattering,2
+Tioga,Tom Hoeffling,3
+Tioga,Scattering,67
+Tompkins,Ross C. Anderson,21
+Tompkins,Stephen Durham,1
+Tompkins,James Harris,1
+Tompkins,Jill Reed,1
+Tompkins,Jerry White,3
+Ulster,Scattering,280
+Warren,Scattering,64
+Washington,Scattering,39
+Wayne,Scattering,108
+Westchester,Stephen Durham,2
+Westchester,Tom Hoeffling,2
+Westchester,Jill Reed,2
+Westchester,Scattering,561
+Wyoming,Scattering,34
+Bronx,Ross C. Anderson,6
+Bronx,Stephen Durham,1
+Bronx,James Harris,6
+Bronx,Jill Reed,2
+Bronx,Jerry White,2
+Bronx,Scattering,134
+Kings,Ross C. Anderson,52
+Kings,Stephen Durham,9
+Kings,James Harris,3
+Kings,Jerry White,6
+Kings,Scattering,511
+New York,Ross C. Anderson,69
+New York,Stephen Durham,17
+New York,James Harris,12
+New York,Merlin Miller,3
+New York,Jerry White,3
+New York,Scattering,552
+Queens,Ross C. Anderson,12
+Queens,Stephen Durham,3
+Queens,James Harris,1
+Queens,Tom Hoeffling,1
+Queens,Scattering,630
+Richmond,Ross C. Anderson,7
+Richmond,Stephen Durham,1
+Richmond,Jill Reed,1
+Richmond,Jerry White,1
+Richmond,Scattering,222

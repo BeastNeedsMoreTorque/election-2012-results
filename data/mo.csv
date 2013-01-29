@@ -187,10 +187,10 @@ fips,county,candidate,votes
 29093,Iron,Gary Johnson,89 
 29093,Iron,Mitt Romney,2252 
 29093,Iron,Virgil Goode,21 
-29095,Jackson,Barack Obama,78283 
-29095,Jackson,Gary Johnson,2721 
-29095,Jackson,Mitt Romney,93199 
-29095,Jackson,Virgil Goode,561 
+29095,Jackson,Barack Obama,183953
+29095,Jackson,Gary Johnson,4133
+29095,Jackson,Mitt Romney,122708
+29095,Jackson,Virgil Goode,783
 29097,Jasper,Barack Obama,12809 
 29097,Jasper,Gary Johnson,919 
 29097,Jasper,Mitt Romney,31349 
@@ -203,10 +203,6 @@ fips,county,candidate,votes
 29101,Johnson,Gary Johnson,501 
 29101,Johnson,Mitt Romney,12763 
 29101,Johnson,Virgil Goode,90 
-,Kansas City,Barack Obama,105670 
-,Kansas City,Gary Johnson,1412 
-,Kansas City,Mitt Romney,29509 
-,Kansas City,Virgil Goode,222 
 29103,Knox,Barack Obama,698 
 29103,Knox,Gary Johnson,41 
 29103,Knox,Mitt Romney,1205 

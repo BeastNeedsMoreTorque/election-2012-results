@@ -1,7 +1,7 @@
 2012 Presidential Election Results
 =============
 
-This repository contains official county-/town-level results for the 2012 general presidential election.
+This repository contains official county-level results for the 2012 general presidential election.
 
 All results were from the relevant state's website. They were then parsed and converted into a common format.
 

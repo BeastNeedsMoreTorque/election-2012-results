@@ -1,10 +1,12 @@
-2012 Presidential Election Results
-=============
+# 2012 Presidential Election Results
 
-This repository contains official county-level results for the 2012 general presidential election.
+The Huffington Post collected county-level election results from the websites of the election authority in each state, parsed the data and converted them into a common format.
 
-All results were from the relevant state's website. They were then parsed and converted into a common format.
+The resulting comma-separated-values files can be found in the `/data` directory.
 
-The resulting comma-separated-values files can be found in the data directory.
+The unprocessed source data for each state can be found in the `sources` directory. That directory also contains a `sources.csv` file, which lists the URL from which each results file was downloaded.
 
-The source data for each state can be found in the sources directory. That directory also contains a sources.csv file, which lists the URL from which each results file was downloaded.
+The repository currently includes county-level results from every state except Massachusetts and Alaska. It also includes results for the District of Columbia and town-level results for Rhode Island.
+
+## Authors
+Aaron Bycoffe, bycoffe@huffingtonpost.com

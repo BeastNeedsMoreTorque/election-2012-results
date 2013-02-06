@@ -4,9 +4,11 @@ The Huffington Post collected county-level election results from the websites of
 
 The resulting comma-separated-values files can be found in the `/data` directory.
 
-The unprocessed source data for each state can be found in the `sources` directory. That directory also contains a `sources.csv` file, which lists the URL from which each results file was downloaded.
+The unprocessed source data for each state can be found in the `/sources` directory. That directory also contains a `sources.csv` file, which lists the URL from which each results file was downloaded.
 
-The repository currently includes county-level results from every state except Massachusetts and Alaska. It also includes results for the District of Columbia and town-level results for Rhode Island.
+The repository currently includes results from every state except Massachusetts, which has yet to release city/town-level results to the public. 
+
+It includes county-level results for 48 states, precinct-level results for Alaska and the citywide totals for the District of Columbia. It also includes town-level results for Rhode Island.
 
 ## Authors
 Aaron Bycoffe, bycoffe@huffingtonpost.com

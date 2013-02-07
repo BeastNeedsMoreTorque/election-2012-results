@@ -1,5 +1,5 @@
 fips,county,candidate,votes
-36001,Albany,Obama/Biden (DEM),83978
+36001,Albany,Obama/Biden (DEM),83979
 36001,Albany,Romney/Ryan (REP),40210
 36001,Albany,Romney/Ryan (CON),4854
 36001,Albany,Obama/Biden (WOR),3577
@@ -143,13 +143,13 @@ fips,county,candidate,votes
 36037,Genesee,Lindsay/Osorio (PSL),7
 36037,Genesee,Johnson/Gray (LBT),363
 36037,Genesee,Good/Clymer (CST),42
-36039,Greene,Obama/Biden (DEM),8384
-36039,Greene,Romney/Ryan (REP),9737
-36039,Greene,Romney/Ryan (CON),1352
-36039,Greene,Obama/Biden (WOR),538
-36039,Greene,Stein/Honkala (GRN),140
+36039,Greene,Obama/Biden (DEM),8485
+36039,Greene,Romney/Ryan (REP),9811
+36039,Greene,Romney/Ryan (CON),1363
+36039,Greene,Obama/Biden (WOR),545
+36039,Greene,Stein/Honkala (GRN),141
 36039,Greene,Lindsay/Osorio (PSL),10
-36039,Greene,Johnson/Gray (LBT),231
+36039,Greene,Johnson/Gray (LBT),233
 36039,Greene,Good/Clymer (CST),61
 36041,Hamilton,Obama/Biden (DEM),1092
 36041,Hamilton,Romney/Ryan (REP),1771
@@ -366,14 +366,14 @@ fips,county,candidate,votes
 36101,Steuben,Lindsay/Osorio (PSL),7
 36101,Steuben,Johnson/Gray (LBT),373
 36101,Steuben,Good/Clymer (CST),81
-36103,Suffolk,Obama/Biden (DEM),287519
-36103,Suffolk,Romney/Ryan (REP),243258
-36103,Suffolk,Romney/Ryan (CON),35881
-36103,Suffolk,Obama/Biden (WOR),11704
-36103,Suffolk,Stein/Honkala (GRN),2485
-36103,Suffolk,Lindsay/Osorio (PSL),142
-36103,Suffolk,Johnson/Gray (LBT),3846
-36103,Suffolk,Good/Clymer (CST),517
+36103,Suffolk,Obama/Biden (DEM),292238
+36103,Suffolk,Romney/Ryan (REP),246044
+36103,Suffolk,Romney/Ryan (CON),36087
+36103,Suffolk,Obama/Biden (WOR),11841
+36103,Suffolk,Stein/Honkala (GRN),2528
+36103,Suffolk,Lindsay/Osorio (PSL),148
+36103,Suffolk,Johnson/Gray (LBT),3947
+36103,Suffolk,Good/Clymer (CST),521
 36105,Sullivan,Obama/Biden (DEM),14612
 36105,Sullivan,Romney/Ryan (REP),11347
 36105,Sullivan,Romney/Ryan (CON),1358
@@ -385,11 +385,11 @@ fips,county,candidate,votes
 36107,Tioga,Obama/Biden (DEM),8544
 36107,Tioga,Romney/Ryan (REP),11160
 36107,Tioga,Romney/Ryan (CON),957
-36107,Tioga,Obama/Biden (WOR),396
+36107,Tioga,Obama/Biden (WOR),386
 36107,Tioga,Stein/Honkala (GRN),172
 36107,Tioga,Lindsay/Osorio (PSL),3
 36107,Tioga,Johnson/Gray (LBT),240
-36107,Tioga,Good/Clymer (CST),59
+36107,Tioga,Good/Clymer (CST),58
 36109,Tompkins,Obama/Biden (DEM),24872
 36109,Tompkins,Romney/Ryan (REP),10191
 36109,Tompkins,Romney/Ryan (CON),916
@@ -454,8 +454,8 @@ fips,county,candidate,votes
 36123,Yates,Lindsay/Osorio (PSL),3
 36123,Yates,Johnson/Gray (LBT),69
 36123,Yates,Good/Clymer (CST),17
-36005,Bronx,Obama/Biden (DEM),334600
-36005,Bronx,Romney/Ryan (REP),26680
+36005,Bronx,Obama/Biden (DEM),334639
+36005,Bronx,Romney/Ryan (REP),26682
 36005,Bronx,Romney/Ryan (CON),3285
 36005,Bronx,Obama/Biden (WOR),4569
 36005,Bronx,Stein/Honkala (GRN),774
@@ -478,16 +478,16 @@ fips,county,candidate,votes
 36061,New York,Lindsay/Osorio (PSL),227
 36061,New York,Johnson/Gray (LBT),3087
 36061,New York,Good/Clymer (CST),146
-36081,Queens,Obama/Biden (DEM),461391
-36081,Queens,Romney/Ryan (REP),108864
-36081,Queens,Romney/Ryan (CON),9707
+36081,Queens,Obama/Biden (DEM),461541
+36081,Queens,Romney/Ryan (REP),108881
+36081,Queens,Romney/Ryan (CON),9708
 36081,Queens,Obama/Biden (WOR),9187
 36081,Queens,Stein/Honkala (GRN),2465
 36081,Queens,Lindsay/Osorio (PSL),183
 36081,Queens,Johnson/Gray (LBT),2375
 36081,Queens,Good/Clymer (CST),254
-36085,Richmond,Obama/Biden (DEM),75557
-36085,Richmond,Romney/Ryan (REP),66916
+36085,Richmond,Obama/Biden (DEM),75562
+36085,Richmond,Romney/Ryan (REP),66918
 36085,Richmond,Romney/Ryan (CON),7304
 36085,Richmond,Obama/Biden (WOR),2616
 36085,Richmond,Stein/Honkala (GRN),519
@@ -520,7 +520,6 @@ fips,county,candidate,votes
 36037,Genesee,Tom Hoeffling,3
 36037,Genesee,Scattering,8
 36039,Greene,Scattering,19
-36041,Hamilton,Scattering,9
 36043,Herkimer,Scattering,5
 36051,Livingston,Ross C. Anderson,3
 36051,Livingston,Scattering,66
@@ -561,10 +560,10 @@ fips,county,candidate,votes
 36089,St. Lawrence,Scattering,124
 36101,Steuben,Tom Hoeffling,2
 36101,Steuben,Scattering,95
-36103,Suffolk,Scattering,906
+36103,Suffolk,Scattering,912
 36105,Sullivan,Scattering,2
 36107,Tioga,Tom Hoeffling,3
-36107,Tioga,Scattering,67
+36107,Tioga,Scattering,66
 36109,Tompkins,Ross C. Anderson,21
 36109,Tompkins,Stephen Durham,1
 36109,Tompkins,James Harris,1
@@ -583,8 +582,8 @@ fips,county,candidate,votes
 36005,Bronx,Stephen Durham,1
 36005,Bronx,James Harris,6
 36005,Bronx,Jill Reed,2
-36005,Bronx,Jerry White,2
-36005,Bronx,Scattering,134
+36005,Bronx,Jerry White,1
+36005,Bronx,Scattering,135
 36047,Kings,Ross C. Anderson,52
 36047,Kings,Stephen Durham,9
 36047,Kings,James Harris,3

@@ -6,9 +6,8 @@ The resulting comma-separated-values files can be found in the `/data` directory
 
 The unprocessed source data for each state can be found in the `/sources` directory. That directory also contains a `sources.csv` file, which lists the URL from which each results file was downloaded.
 
-The repository currently includes results from every state except Massachusetts, which has yet to release city/town-level results to the public. 
-
-It includes county-level results for 48 states, precinct-level results for Alaska and the citywide totals for the District of Columbia. It also includes town-level results for Rhode Island.
+The repository includes county-level results for 49 states, precinct-level results for Alaska and the citywide totals for the District of Columbia. It also includes town-level results for Massachusetts and Rhode Island.
 
 ## Authors
 Aaron Bycoffe, bycoffe@huffingtonpost.com
+Jay Boice, jay.boice@huffingtonpost.com

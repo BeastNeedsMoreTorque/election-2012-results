@@ -398,13 +398,13 @@ fips,county,candidate,votes
 36109,Tompkins,Lindsay/Osorio (PSL),30
 36109,Tompkins,Johnson/Gray (LBT),395
 36109,Tompkins,Good/Clymer (CST),33
-36111,Ulster,Obama/Biden (DEM),43837
-36111,Ulster,Romney/Ryan (REP),25572
-36111,Ulster,Romney/Ryan (CON),3590
-36111,Ulster,Obama/Biden (WOR),3228
-36111,Ulster,Stein/Honkala (GRN),935
+36111,Ulster,Obama/Biden (DEM),44480
+36111,Ulster,Romney/Ryan (REP),26123
+36111,Ulster,Romney/Ryan (CON),3636
+36111,Ulster,Obama/Biden (WOR),3272
+36111,Ulster,Stein/Honkala (GRN),944
 36111,Ulster,Lindsay/Osorio (PSL),44
-36111,Ulster,Johnson/Gray (LBT),751
+36111,Ulster,Johnson/Gray (LBT),768
 36111,Ulster,Good/Clymer (CST),78
 36113,Warren,Obama/Biden (DEM),14276
 36113,Warren,Romney/Ryan (REP),12925
@@ -454,7 +454,7 @@ fips,county,candidate,votes
 36123,Yates,Lindsay/Osorio (PSL),3
 36123,Yates,Johnson/Gray (LBT),69
 36123,Yates,Good/Clymer (CST),17
-36005,Bronx,Obama/Biden (DEM),334639
+36005,Bronx,Obama/Biden (DEM),334642
 36005,Bronx,Romney/Ryan (REP),26682
 36005,Bronx,Romney/Ryan (CON),3285
 36005,Bronx,Obama/Biden (WOR),4569
@@ -462,7 +462,7 @@ fips,county,candidate,votes
 36005,Bronx,Lindsay/Osorio (PSL),105
 36005,Bronx,Johnson/Gray (LBT),608
 36005,Bronx,Good/Clymer (CST),122
-36047,Kings,Obama/Biden (DEM),580225
+36047,Kings,Obama/Biden (DEM),580237
 36047,Kings,Romney/Ryan (REP),112957
 36047,Kings,Romney/Ryan (CON),10732
 36047,Kings,Obama/Biden (WOR),18709
@@ -470,15 +470,15 @@ fips,county,candidate,votes
 36047,Kings,Lindsay/Osorio (PSL),217
 36047,Kings,Johnson/Gray (LBT),2473
 36047,Kings,Good/Clymer (CST),275
-36061,New York,Obama/Biden (DEM),486172
-36061,New York,Romney/Ryan (REP),84810
-36061,New York,Romney/Ryan (CON),4309
-36061,New York,Obama/Biden (WOR),13987
-36061,New York,Stein/Honkala (GRN),3833
-36061,New York,Lindsay/Osorio (PSL),227
-36061,New York,Johnson/Gray (LBT),3087
+36061,New York,Obama/Biden (DEM),488632
+36061,New York,Romney/Ryan (REP),85245
+36061,New York,Romney/Ryan (CON),4314
+36061,New York,Obama/Biden (WOR),14042
+36061,New York,Stein/Honkala (GRN),3860
+36061,New York,Lindsay/Osorio (PSL),230
+36061,New York,Johnson/Gray (LBT),3104
 36061,New York,Good/Clymer (CST),146
-36081,Queens,Obama/Biden (DEM),461541
+36081,Queens,Obama/Biden (DEM),461545
 36081,Queens,Romney/Ryan (REP),108881
 36081,Queens,Romney/Ryan (CON),9708
 36081,Queens,Obama/Biden (WOR),9187
@@ -486,8 +486,8 @@ fips,county,candidate,votes
 36081,Queens,Lindsay/Osorio (PSL),183
 36081,Queens,Johnson/Gray (LBT),2375
 36081,Queens,Good/Clymer (CST),254
-36085,Richmond,Obama/Biden (DEM),75562
-36085,Richmond,Romney/Ryan (REP),66918
+36085,Richmond,Obama/Biden (DEM),75565
+36085,Richmond,Romney/Ryan (REP),66919
 36085,Richmond,Romney/Ryan (CON),7304
 36085,Richmond,Obama/Biden (WOR),2616
 36085,Richmond,Stein/Honkala (GRN),519
@@ -569,7 +569,7 @@ fips,county,candidate,votes
 36109,Tompkins,James Harris,1
 36109,Tompkins,Jill Reed,1
 36109,Tompkins,Jerry White,3
-36111,Ulster,Scattering,280
+36111,Ulster,Scattering,281
 36113,Warren,Scattering,64
 36115,Washington,Scattering,39
 36117,Wayne,Scattering,108
@@ -584,17 +584,17 @@ fips,county,candidate,votes
 36005,Bronx,Jill Reed,2
 36005,Bronx,Jerry White,1
 36005,Bronx,Scattering,135
-36047,Kings,Ross C. Anderson,52
+36047,Kings,Ross C. Anderson,53
 36047,Kings,Stephen Durham,9
 36047,Kings,James Harris,3
-36047,Kings,Jerry White,6
-36047,Kings,Scattering,511
-36061,New York,Ross C. Anderson,69
+36047,Kings,Jerry White,7
+36047,Kings,Scattering,509
+36061,New York,Ross C. Anderson,73
 36061,New York,Stephen Durham,17
-36061,New York,James Harris,12
+36061,New York,James Harris,13
 36061,New York,Merlin Miller,3
 36061,New York,Jerry White,3
-36061,New York,Scattering,552
+36061,New York,Scattering,609
 36081,Queens,Ross C. Anderson,12
 36081,Queens,Stephen Durham,3
 36081,Queens,James Harris,1

@@ -10,4 +10,5 @@ The repository includes county-level results for 49 states, precinct-level resul
 
 ## Authors
 Aaron Bycoffe, bycoffe@huffingtonpost.com
+
 Jay Boice, jay.boice@huffingtonpost.com

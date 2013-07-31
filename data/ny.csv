@@ -462,14 +462,14 @@ fips,county,candidate,votes
 36005,Bronx,Lindsay/Osorio (PSL),105
 36005,Bronx,Johnson/Gray (LBT),608
 36005,Bronx,Good/Clymer (CST),122
-36047,Kings,Obama/Biden (DEM),580237
-36047,Kings,Romney/Ryan (REP),112957
-36047,Kings,Romney/Ryan (CON),10732
-36047,Kings,Obama/Biden (WOR),18709
-36047,Kings,Stein/Honkala (GRN),4365
-36047,Kings,Lindsay/Osorio (PSL),217
-36047,Kings,Johnson/Gray (LBT),2473
-36047,Kings,Good/Clymer (CST),275
+36047,Kings,Obama/Biden (DEM),585491
+36047,Kings,Romney/Ryan (REP),113752
+36047,Kings,Romney/Ryan (CON),10799
+36047,Kings,Obama/Biden (WOR),18952
+36047,Kings,Stein/Honkala (GRN),4411
+36047,Kings,Lindsay/Osorio (PSL),219
+36047,Kings,Johnson/Gray (LBT),2500
+36047,Kings,Good/Clymer (CST),276
 36061,New York,Obama/Biden (DEM),488632
 36061,New York,Romney/Ryan (REP),85245
 36061,New York,Romney/Ryan (CON),4314
@@ -588,7 +588,7 @@ fips,county,candidate,votes
 36047,Kings,Stephen Durham,9
 36047,Kings,James Harris,3
 36047,Kings,Jerry White,7
-36047,Kings,Scattering,509
+36047,Kings,Scattering,510
 36061,New York,Ross C. Anderson,73
 36061,New York,Stephen Durham,17
 36061,New York,James Harris,13
